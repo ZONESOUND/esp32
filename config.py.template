@@ -1,0 +1,15 @@
+#WIFI INFO
+SSID = ''
+PASSWORD = ''
+
+#FIREBASE INFO
+# ${firebase url}/${table name}.json
+URL = ''
+
+#MQTT INFO
+MQTTSERVER = b''
+MQTTPORT = 1883
+MQTTUSER = b''
+MQTTPSW = b''
+CLIENT_ID = b''
+TOPIC_light = b''
